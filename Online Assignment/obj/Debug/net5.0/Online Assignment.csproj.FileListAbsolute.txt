@@ -1,0 +1,16 @@
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\bin\Debug\net5.0\Online Assignment.exe
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\bin\Debug\net5.0\Online Assignment.deps.json
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\bin\Debug\net5.0\Online Assignment.runtimeconfig.json
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\bin\Debug\net5.0\Online Assignment.runtimeconfig.dev.json
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\bin\Debug\net5.0\Online Assignment.dll
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\bin\Debug\net5.0\ref\Online Assignment.dll
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\bin\Debug\net5.0\Online Assignment.pdb
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\obj\Debug\net5.0\Online Assignment.csprojAssemblyReference.cache
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\obj\Debug\net5.0\Online Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\obj\Debug\net5.0\Online Assignment.AssemblyInfoInputs.cache
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\obj\Debug\net5.0\Online Assignment.AssemblyInfo.cs
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\obj\Debug\net5.0\Online Assignment.csproj.CoreCompileInputs.cache
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\obj\Debug\net5.0\Online Assignment.dll
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\obj\Debug\net5.0\ref\Online Assignment.dll
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\obj\Debug\net5.0\Online Assignment.pdb
+C:\Users\DELL 15\source\repos\revision\Online Assignment\Online Assignment\obj\Debug\net5.0\Online Assignment.genruntimeconfig.cache
